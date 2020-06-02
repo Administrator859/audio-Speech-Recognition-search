@@ -2,7 +2,7 @@
 ```
 1. Wolfram|Alpha and wikipedia to get answers for
 2. speech recognition to get user audio input.
-3.tkinter to display the answer.
+3. tkinter to display the answer.
 ```
 ### How to get Wolfram|Alpha? ###
 go to this site
